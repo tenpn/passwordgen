@@ -6,3 +6,7 @@ A version of [Nic Wolff's](https://github.com/nicwolff) [password generator](htt
 >Then just hit return and copy your new password so you can paste it into whatever site you're registering at. It'll be different for every site, and undiscoverable by anyone who doesn't know your master password - but you can always retrieve it by simply using this form again.
 >(Note that all this is done by your browser running the program that's in the source of this page; nothing is passed back to my server. You can make your own local copy of this page, use it off-line, &c.)
 
+My changes:
+
+* hosted on gh-pages
+* google password is always produced - I assume this pword is so common you can recognise it on sight, sanity-checking that you've entered the site name correclty.
